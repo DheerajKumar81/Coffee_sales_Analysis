@@ -12,8 +12,7 @@
   <p>
     A data analysis project built with <strong>Python</strong>, <strong>Pandas</strong>,
     <strong>Matplotlib</strong>, and <strong>Seaborn</strong> to explore coffee shop sales
-    data and generate insights on revenue, product performance, and payment trends. This helps us to 
-    give an overview growth mertic of the coffee store.
+    data and generate insights on revenue, product performance, and payment trends. 
   </p>
 
   <hr />
