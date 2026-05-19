@@ -72,7 +72,6 @@ plt.show()
 # 5. Payment Method Distribution
 # -----------------------------
 payment = df['cash_type'].value_counts()
-
 plt.figure(figsize=(7, 7))
 plt.pie(
     payment,
@@ -80,7 +79,6 @@ plt.pie(
     autopct='%1.1f%%',
     startangle=90
 )
-
 plt.title('Payment Method Distribution')
 plt.tight_layout()
 plt.show()
